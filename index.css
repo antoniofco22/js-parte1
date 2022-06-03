@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+h1{
+    font-size: 8rem;
+    border-bottom: 2px solid #ff0000;
+    font-family: 'Roboto';
+
+}
+button{
+    font-size: 2rem;
+}
